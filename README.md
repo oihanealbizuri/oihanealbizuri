@@ -36,6 +36,8 @@ I'm a Full Stack Software Developer. Passionate about tech and eager to learn ne
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=oihanealbizuri/oihanealbizuri)
 
+---
+![oihanealbizuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=oihanealbizuri&count_private=true&show_icons=true&theme=buefy)
 
 [linkedin]: https://www.linkedin.com/in/oihanealbizuri/
 [twitter]: https://twitter.com/oihanealbizuri
