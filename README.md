@@ -34,7 +34,7 @@ I'm a Full Stack Software Developer. Passionate about tech and eager to learn ne
 [<img align="left" alt="oihanealbizuri | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 <br/>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=oihanealbizuri/oihanealbizuri)
+![visitors](https://api.visitorbadge.io/api/visitors?path=oihanealbizuri%2Foihanealbizuri&countColor=%23263759)
 
 ---
 ![oihanealbizuri's GitHub stats](https://github-readme-stats.vercel.app/api?username=oihanealbizuri&count_private=true&show_icons=true&theme=nord) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oihanealbizuri&theme=nord)](https://git.io/streak-stats)
