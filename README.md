@@ -1,7 +1,7 @@
-# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I am Oihane Albizuri
-I'm a Full Stack Software Developer. Passionate about tech and eager to learn new things.
-- ✍🏻 Learning about efficient code
-- ✔️ 2023 goals: contribute more to Open Source projects
+# <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi, I'm Oihane Albizuri
+A full-stack software developer, passionate about tech and open source development.
+- ✍🏻 Working on efficiency and optimization
+-  ✔️ 2023 goals: Actively increase contributions to Open Source projects
 - 🔍 Fun fact: Nature and sports are two of my passions
 
 ## Tech Stack
